@@ -40,7 +40,7 @@ The notes and slides are available in the course website - [here](http://web.sta
 
 ##### Exams - [2018 Winter Midterm](https://github.com/SKKSaikia/CS224n_NLP/blob/master/midterm/cs224n-midterm-2018.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/midterm/cs224n-midterm-2018-solution.pdf), [2017 Winter Midterm](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-3.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-3-sol.pdf) , [2017 Winter Prac Mid1](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-1.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-1.pdf), [2017 Winter Prac Mid2](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-2.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-2-sol.pdf)
 
-- [Udacity NLP Nanodegree](https://github.com/SKKSaikia/NLPNanoD)
+- [Udacity NLP Nanodegree](https://github.com/SKKSaikia/NLPNanoD) | [NLP - Dan Jurafsky, Christopher Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) | [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) | [NLTK](https://www.nltk.org/)
 
 # FINAL Project | [Past Projects](http://web.stanford.edu/class/cs224n/reports.html)
 

@@ -16,6 +16,28 @@ The Winter 2017 version lectures are available here at [YouTube](https://www.you
 
 # [COURSE](http://web.stanford.edu/class/cs224n/syllabus.html)
 
+<h2><b> ♞ Natural Language Processing </b></h2>
+
+- Introduction to NLP and Deep Learning 
+- Word Vectors
+- Neural Networks
+- Backpropagation and Project Advice
+- Introduction to TensorFlow 
+- Dependency Parsing 
+- Recurrent Neural Networks and Language Models 
+- Vanishing Gradients, Fancy RNNs 
+- Machine Translation, Seq2Seq and Attention 
+- Advanced Attention 
+- Transformer Networks and CNNs
+- Coreference Resolution
+- Tree Recursive Neural Networks and Constituency Parsing 
+- Advanced Architectures and Memory Networks
+- Reinforcement Learning for NLP Guest Lecture 
+- Semi-supervised Learning for NLP
+- Future of NLP Models, Multi-task Learning and QA Systems 
+
+The notes and slides are available in the course website - [here](http://web.stanford.edu/class/cs224n/syllabus.html)
+
 ##### Exams - [2018 Winter Midterm](https://github.com/SKKSaikia/CS224n_NLP/blob/master/midterm/cs224n-midterm-2018.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/midterm/cs224n-midterm-2018-solution.pdf), [2017 Winter Midterm](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-3.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-3-sol.pdf) , [2017 Winter Prac Mid1](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-1.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-1.pdf), [2017 Winter Prac Mid2](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-2.pdf), [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/practice_midterm/cs224n-practice-midterm-2-sol.pdf)
 
 - [Udacity NLP Nanodegree](https://github.com/SKKSaikia/NLPNanoD)

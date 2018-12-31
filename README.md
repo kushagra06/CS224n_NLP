@@ -2,7 +2,12 @@
 
 <img src="https://github.com/SKKSaikia/CS224n_NLP/blob/master/nlp.PNG">
 
-CS224n is a Deep Learning (NLP) course at Stanford.
+CS224n is a NLP (Deep Learning) course at Stanford. This course is open and you'll find everything in their course website. Gotta learn this course and start my NLP journey. The notes are amazing, the course is amazing, let's get started.
+
+<b>Book:</b> 
+- [Foundations of Statistical Natural Language Processing - Chris Manning, Hinrich Schütze](https://github.com/SKKSaikia/CS224n_NLP/blob/master/ed3book.pdf)
+- [Speech and Language Processing (3rd edition in making) - Dan Jurafsky, James H. Martin](https://github.com/SKKSaikia/CS224n_NLP/blob/master/ManningSchutze_1999_FoundationsofStatisticalNaturalLanguageProcessing.pdf)
+- [Natural Language Processing with Python](https://github.com/SKKSaikia/CS224n_NLP/blob/master/Natural%20Language%20Processing%20with%20Python.pdf) | [NLTK Essentials](https://github.com/SKKSaikia/CS224n_NLP/blob/master/NLTK%20Essentials.pdf)
 
 <p align="justify">Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. There are a large variety of underlying tasks and machine learning models behind NLP applications. Recently, deep learning approaches have obtained very high performance across many different NLP tasks. These can solve tasks with single end-to-end models and do not require traditional, task-specific feature engineering. In this winter quarter course students will learn to implement, train, debug, visualize and invent their own neural network models. The course provides a thorough introduction to cutting-edge research in deep learning applied to NLP. On the model side we will cover word vector representations, window-based neural networks, recurrent neural networks, long-short-term-memory models, recursive neural networks, convolutional neural networks as well as some recent models involving a memory component. Through lectures and programming assignments students will learn the necessary engineering tricks for making neural networks work on practical problems.</p>
 

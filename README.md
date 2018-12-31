@@ -8,9 +8,9 @@ The Winter 2017 version lectures are available here at [YouTube](https://www.you
 
 # [Assignments](http://web.stanford.edu/class/cs224n/assignments.html)
 
-- [Assignment1]() : [Solution]()
-- [Assignment2]() : [Solution]()
-- [Assignment3]() : [Solution]()
+- [Assignment1](https://github.com/SKKSaikia/CS224n_NLP/tree/master/assignment/assignment1) : [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/assignment/assignment1/assignment1-solution.pdf)
+- [Assignment2](https://drive.google.com/drive/folders/1IWVt1Fd5jd07K2hNtv_iFlfA5cqDkQOH?usp=sharing) : [Solution](https://drive.google.com/file/d/1vNOETmZ_vBI4FwxJEc1vqX0jVM3uNYP6/view?usp=sharing)
+- [Assignment3](https://github.com/SKKSaikia/CS224n_NLP/tree/master/assignment/assignment3) : [Solution](https://github.com/SKKSaikia/CS224n_NLP/blob/master/assignment/assignment3/assignment3-soln.pdf)
 
 # [COURSE](http://web.stanford.edu/class/cs224n/syllabus.html)
 

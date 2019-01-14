@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS224n_NLP)
+
 # [CS224n : Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 <img src="https://github.com/SKKSaikia/CS224n_NLP/blob/master/nlp.PNG">
